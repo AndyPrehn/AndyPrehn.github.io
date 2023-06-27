@@ -17,9 +17,7 @@ h6 {font-family: Arial;TimesNewRoman;}
 
 ul {font-family: Arial;TimesNewRoman;}
 
-div {
-  width: 300px;
-  border: 15px groove blue;
-  padding: 50px;
-  margin: 20px;
-}
+h1 {width: 300px;}
+h1 {border: 15px groove blue;}
+h1 {padding: 50px;}
+h1 {margin: 20px;}
