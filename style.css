@@ -3,19 +3,14 @@ h1 {color: #5303f3}
 h1 {font-size:30px}
 h1 {font-family: Garamond;TimesNewRoman; sans-sarif}
 
-h3 {color: #00008b}
+h3 {color: #5303f3}
 h3 {font-size:20px}
 h3 {font-family: Garamond;TimesNewRoman; sans-sarif}
-h3 {font-weight: bold;}
 
-h4 {color: #483d8b}
+h4 {color: #5303f3}
 h4 {font-size:16px}
 h4 {font-family: Garamond;TimesNewRoman; sans-sarif}
 
-h5 {font-family: Arial;TimesNewRoman;}
-h6 {font-family: Arial;TimesNewRoman;}
-
-ul {font-family: Arial;TimesNewRoman;}
 
 body 
 {
@@ -26,3 +21,14 @@ body
     padding:15px;
   
 }
+
+h1
+{
+  border-bottom-style: solid
+    
+}
+
+p
+{border-top-style:dotted}
+p
+{border-bottom-style:dotted}
